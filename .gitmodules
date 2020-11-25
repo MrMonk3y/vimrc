@@ -1,3 +1,21 @@
 [submodule "my_plugins/ale"]
 	path = my_plugins/ale
 	url = https://github.com/dense-analysis/ale
+[submodule "my_plugins/vim-autoclose"]
+	path = my_plugins/vim-autoclose
+	url = https://github.com/Townk/vim-autoclose
+[submodule "my_plugins/vim-cpp-enhanced-highlight"]
+	path = my_plugins/vim-cpp-enhanced-highlight
+	url = https://github.com/octol/vim-cpp-enhanced-highlight
+[submodule "my_plugins/vim-numbertoggle"]
+	path = my_plugins/vim-numbertoggle
+	url = https://github.com/jeffkreeftmeijer/vim-numbertoggle
+[submodule "my_plugins/tabnine-vim"]
+	path = my_plugins/tabnine-vim
+	url = https://github.com/codota/tabnine-vim
+[submodule "my_plugins/vim-autopep8"]
+	path = my_plugins/vim-autopep8
+	url = https://github.com/tell-k/vim-autopep8
+[submodule "my_plugins/python-mode"]
+	path = my_plugins/python-mode
+	url = https://github.com/python-mode/python-mode
