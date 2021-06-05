@@ -7,3 +7,4 @@ snoremap ö <esc>         " Remap in Select mode
 cnoremap ö <C-C>         " Remap in Command-line mode
 onoremap ö <esc>         " Remap in Operator pending modeset mouse=a
 " set number
+let g:snipMate = { 'snippet_version' : 1 }

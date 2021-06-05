@@ -19,3 +19,6 @@
 [submodule "my_plugins/python-mode"]
 	path = my_plugins/python-mode
 	url = https://github.com/python-mode/python-mode
+[submodule "my_plugins/ropevim"]
+	path = my_plugins/ropevim
+	url = https://github.com/python-rope/ropevim
