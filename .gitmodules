@@ -10,9 +10,6 @@
 [submodule "my_plugins/vim-numbertoggle"]
 	path = my_plugins/vim-numbertoggle
 	url = https://github.com/jeffkreeftmeijer/vim-numbertoggle
-[submodule "my_plugins/tabnine-vim"]
-	path = my_plugins/tabnine-vim
-	url = https://github.com/codota/tabnine-vim
 [submodule "my_plugins/vim-autopep8"]
 	path = my_plugins/vim-autopep8
 	url = https://github.com/tell-k/vim-autopep8
