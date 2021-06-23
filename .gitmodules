@@ -13,9 +13,6 @@
 [submodule "my_plugins/vim-autopep8"]
 	path = my_plugins/vim-autopep8
 	url = https://github.com/tell-k/vim-autopep8
-[submodule "my_plugins/python-mode"]
-	path = my_plugins/python-mode
-	url = https://github.com/python-mode/python-mode
 [submodule "my_plugins/ropevim"]
 	path = my_plugins/ropevim
 	url = https://github.com/python-rope/ropevim
