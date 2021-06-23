@@ -22,3 +22,6 @@
 [submodule "my_plugins/ropevim"]
 	path = my_plugins/ropevim
 	url = https://github.com/python-rope/ropevim
+[submodule "my_plugins/vim-virtualenv"]
+	path = my_plugins/vim-virtualenv
+	url = https://github.com/jmcantrell/vim-virtualenv
