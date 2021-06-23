@@ -19,3 +19,9 @@
 [submodule "my_plugins/vim-virtualenv"]
 	path = my_plugins/vim-virtualenv
 	url = https://github.com/jmcantrell/vim-virtualenv
+[submodule "my_plugins/tabnine-vim"]
+	path = my_plugins/tabnine-vim
+	url = https://github.com/codota/tabnine-vim
+[submodule "my_plugins/python-mode"]
+	path = my_plugins/python-mode
+	url = https://github.com/python-mode/python-mode
